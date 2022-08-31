@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "x374295d9666057d89c55c8e01ddc13ca33f0e081",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x7324bad26e4450bd4c79487e9d02e51c4852f03f629091d1a4b698b2dab126c9",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
+    "NAME": "rinkeby",
+    "SYMBOL": "RinkbyEth",
     "ID": 137
   },
   "NFT_NAME": "The Stripes NFT",
   "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
+  "MAX_SUPPLY": 1400,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/untitled-collection-11095228",
   "SHOW_BACKGROUND": true
 }
