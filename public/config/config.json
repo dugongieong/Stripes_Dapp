@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "x374295d9666057d89c55c8e01ddc13ca33f0e081",
   "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x7324bad26e4450bd4c79487e9d02e51c4852f03f629091d1a4b698b2dab126c9",
   "NETWORK": {
-    "NAME": "rinkeby",
-    "SYMBOL": "RinkbyEth",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
   },
   "NFT_NAME": "The Stripes NFT",
   "SYMBOL": "TSNFT",
